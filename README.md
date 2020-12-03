@@ -1,10 +1,10 @@
 # OSS-9의 프로젝트 : Free-python-games
-![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)
-[&#9989;GO STATIC PAGE](https://20-2-skku-oss.github.io/2020-2-OSS-9/)
+![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)<br>
+[&#9989;GO STATIC PAGE](https://20-2-skku-oss.github.io/2020-2-OSS-9/)<br>
 [&#9989;GO Free-python-games](https://github.com/20-2-SKKU-OSS/free-python-games)
 
-**OSS-9의 프로젝트는 free python games에 기여하는 것입니다. Free Python Games는 교육과 놀이를 목적으로 하는 파이썬 게임 모음입니다. 이 게임은 간단한 파이썬 코드로 제작된 미니 게임, 고전 게임들로 구성되어 있습니다.
-Team OSS-9은 이 게임에 새로운 게임인 '스도쿠'를 추가하여 Free Python Games의 개발자에게 pull request하여 Free Python Games에 기여하는 것을 목표로 합니다 :smile:.**
+**OSS-9의 프로젝트는 free python games에 기여하는 것입니다. Free Python Games는 교육과 놀이를 목적으로 하는 파이썬 게임 모음입니다. 이 게임은 간단한 파이썬 코드로 제작된 미니 게임, 고전 게임들로 구성되어 있습니다.<br>
+Team OSS-9은 이 게임에 새로운 게임인 '스도쿠'를 추가하여 Free Python Games의 개발자에게 pull request하여 Free Python Games에 기여하는 것을 목표로 합니다. :smile:&#9996;**
 
 ## [게임소개]
 **당신은 이 게임으로 간단한 9X9 스도쿠 퍼즐을 즐길 수 있습니다. 스도쿠는 18세기 수학자 '오일러'가 창안한 빈칸에 1~9까지의 숫자를 채우는 게임입니다.
