@@ -9,7 +9,7 @@ https://20-2-skku-oss.github.io/2020-2-OSS-9/
 
 STATIC page 수정은 GH-pages 브랜치에서 작업해주세요!
 
-# [OSS-9의 프로젝트 : Free-python-games] (https://20-2-skku-oss.github.io/2020-2-OSS-9/)
+# [OSS-9의 프로젝트 : Free-python-games](https://20-2-skku-oss.github.io/2020-2-OSS-9/)
 (제목을 누를 시 STATIC PAGE로 이동합니다.)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)]
