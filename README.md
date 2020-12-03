@@ -10,8 +10,7 @@ https://20-2-skku-oss.github.io/2020-2-OSS-9/
 STATIC page 수정은 GH-pages 브랜치에서 작업해주세요!
 
 # [OSS-9의 프로젝트 : Free-python-games](https://20-2-skku-oss.github.io/2020-2-OSS-9/)
-(제목을 누를 시 STATIC PAGE로 이동합니다.) ![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)
-
+![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)(:sparkles:제목을 누를 시 STATIC PAGE로 이동합니다.:sparkles)
 **OSS-9의 프로젝트는 free python games에 기여하는 것입니다. Free Python Games는 교육과 놀이를 목적으로 하는 파이썬 게임 모음입니다. 이 게임은 간단한 파이썬 코드로 제작된 미니 게임, 고전 게임들로 구성되어 있습니다.
 Team OSS-9은 이 게임에 새로운 게임인 '스도쿠'를 추가하여 Free Python Games의 개발자에게 pull request하여 Free Python Games에 기여하는 것을 목표로 합니다 :smile:.**
 
