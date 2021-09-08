@@ -13,14 +13,19 @@
 
 ### 3. 시스템 구성
 
+![1](https://user-images.githubusercontent.com/71880336/132550175-2d562807-a88d-407c-b6db-dc3bf65e9636.JPG)
+
 ### 4. 결과
 - ##### 가격 예측 모델
     RMSE: 0.90
     R-squred: 97973
     
+![2](https://user-images.githubusercontent.com/71880336/132550180-3d992f9b-cb4c-4c93-a9ec-72ced4149a5e.JPG)
+
 - ##### 상태 분류 모델
     Accuracy: 76%
     
+![3](https://user-images.githubusercontent.com/71880336/132550183-471859ad-5c03-490b-ae0c-cce57a4a17a0.JPG)
     
 ### 5. 결론
 판매가를 예측하는 최적의 모형으로 랜덤 포레스트 모형이 도출되었고 각 변수가 가격에 미치는 영향을 비교해 봤을 때 제품 종류 , 사용시간 , 용량 , 제품 상태 , 제품 세대 , 통신규격 ,
